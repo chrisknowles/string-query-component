@@ -1,0 +1,3 @@
+# String Query Component
+
+WIP
